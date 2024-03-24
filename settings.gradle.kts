@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MultiApp"
+rootProject.name = "Multiapp"
 include(":app")
